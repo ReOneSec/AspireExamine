@@ -14,7 +14,7 @@ quadrantChart
     "Gradeup": [0.7, 0.65]
     "Examly": [0.6, 0.55]
     "Traditional LMS": [0.4, 0.3]
-    "AspireExamine": [0., 0.85]
+    "AspireExamine": [0.65, 0.85]
 ```
 
 ### 3.1 Competitive Analysis Table
