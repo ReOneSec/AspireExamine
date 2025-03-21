@@ -25,7 +25,6 @@ quadrantChart
 | Real-time Updates | ✅ | ✅ | ❌ | ✅ |
 | PDF Reports | ✅ | ✅ | ✅ | ✅ |
 | Image Support | ✅ | ✅ | ✅ | ✅ |
-| Offline Access | ✅ | ❌ | ❌ | ❌ |
 | Session Backup | ✅ | ✅ | ❌ | ❌ |
 
 ### 3.2 Competitive Advantages
